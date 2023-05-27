@@ -1,6 +1,10 @@
 # Stat Calculator
 JavaScript App to Calculate NBA Player statistics
 
+## Demo
+
+[StackBlitz](https://stackblitz.com/edit/stackblitz-starters-kt1s9n?file=controllers%2Fplayers.ts)
+
 ## Method used to calculate Stats
 
  * Get player list to get player id of the given player
